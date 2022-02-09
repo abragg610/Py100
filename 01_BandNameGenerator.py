@@ -1,3 +1,4 @@
+#Generic greeting
 print("Hello! Welcome to the band name generator.")
 
 #Prompt for city
